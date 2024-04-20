@@ -24,7 +24,7 @@ public class Assignment_Lab001 {
                 System.out.println(max);
 
         System.out.println("Question4: Cube root of (x2+y2-|z|) ");
-        int  i = 10; double j= 12.4;  double k= 56.78;
+        int  i = 10; double j= 10;  double k= 10;
         double total=Math.pow(i,2)+Math.pow(j,2)-Math.abs(k);
         System.out.println(Math.cbrt(total));
 
