@@ -1,6 +1,6 @@
 package E_041124;
 
-public class Lab001 {
+public class Lab001_datatype {
     public static void main(String[] args) {
         short i = 65;
         int a=190;
