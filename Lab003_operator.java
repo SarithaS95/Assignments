@@ -1,4 +1,4 @@
-package E_041124;
+package Practise;
 
 public class Lab003_operator {
     public static void main(String[] args) {

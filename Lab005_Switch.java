@@ -1,6 +1,5 @@
-package E_041124;
+package Practise;
 
-import javax.swing.*;
 import java.util.Scanner;
 
 public class Lab005_Switch {

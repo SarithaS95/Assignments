@@ -1,4 +1,4 @@
-package E_041124;
+package Practise;
 
 public class Lab002_Casting {
     public static void main(String[] args) {

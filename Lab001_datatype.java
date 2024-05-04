@@ -1,4 +1,4 @@
-package E_041124;
+package Practise;
 
 public class Lab001_datatype {
     public static void main(String[] args) {
